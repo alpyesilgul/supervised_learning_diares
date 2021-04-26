@@ -1,1 +1,1 @@
-# supervised_learning_diares
+ML algorithms that I prepared just to test algorithms
